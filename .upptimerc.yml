@@ -1,20 +1,57 @@
+# See https://upptime.js.org/docs/configuration for the YAML config ref. To enable sending notification,
+# to Discord/Guilded or to add an secret an slap an private API endpoint to monitor,
+# please contact @ajhalili2006 for assistance
+
+# Repository stuff, currently only supports GitHub.
 owner: Community-Lores
 repo: status-page
+
+# Site Inventory
 sites:
   - name: Homepage
     url: https://community-lores.gq
+  #- name: Glossary
+  #  url: https://glossary.communtiy-lores.gq
+
+# Status page settings
 status-website:
   cname: status.community-lores.gq
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Community Lores Infrastructure Status Page
-  introTitle: "T"
+  introTitle: "Community Lores Infrastructure Status Page | Recap Time"
   introMessage: We continuously monitor Community Lores-hosted websites/wikis and related infrastruture. If something goes wrong, an update will be posted here.
   navbar:
-    - title: Status
+    - title: Home
       href: /
-    - title: Source
+    - title: Issue Tracker
       href: https://github.com/$OWNER/$REPO
     - title: GitLab
       href: https://gitlab.com/$OWNER
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
+# Identification purposes on API
+user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)"
+
+# Wrkflow schedules
+workflowSchedule:
+  graphs: "0 */6 * * *"
+  responseTime: "20 * * * *"
+  staticSite: "0 */1 * * *"
+  summary: "0 */2 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "30 * * * *"
+  uptime: "*/20 * * * *"
+
+# git config
+commitMessages:
+  commitAuthorName: "Recap Time Bot"
+  commitAuthorEmail: "recaptime.madebythepins@gmail.com"
+
+# Other stuff
+skipDescriptionUpdate: false
+skipTopicsUpdate: true
+skipHomepageUpdate: false
+
+# Issue assignees
+assignees:
+  - ajhalili2006
+  - ThePinsTeam
