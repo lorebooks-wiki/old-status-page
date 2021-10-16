@@ -1,31 +1,20 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: Community-Lores
+repo: status-page
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Homepage
+    url: https://community-lores.gq
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.community-lores.gq
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Community Lores Infrastructure Status Page
+  introTitle: "T"
+  introMessage: We continuously monitor Community Lores-hosted websites/wikis and related infrastruture. If something goes wrong, an update will be posted here.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Source
       href: https://github.com/$OWNER/$REPO
-
+    - title: GitLab
+      href: https://gitlab.com/$OWNER
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
