@@ -4,19 +4,19 @@
     "url": "https://community-lores.gq",
     "icon": "https://favicons.githubusercontent.com/community-lores.gq",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 690,
-    "timeDay": 543,
-    "timeWeek": 536,
-    "timeMonth": 693,
-    "timeYear": 690,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.93%",
+    "time": 697,
+    "timeDay": 745,
+    "timeWeek": 566,
+    "timeMonth": 699,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2021-11-16": 26
+      "2021-11-16": 33
     }
   }
 ]
