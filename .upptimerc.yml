@@ -31,20 +31,20 @@ status-website:
 # Identification purposes on API
 user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)"
 
-# Wrkflow schedules
+# Workflow schedules
 workflowSchedule:
-  graphs: "0 */6 * * *"
-  responseTime: "20 * * * *"
+  graphs: "0 */3 * * *"
+  responseTime: "*/30 * * * *"
   staticSite: "0 */1 * * *"
-  summary: "0 */2 * * *"
+  summary: "0 */1 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "30 * * * *"
+  updates: "*/20 * * * *"
   uptime: "*/20 * * * *"
 
 # git config
 commitMessages:
   commitAuthorName: "Recap Time Bot"
-  commitAuthorEmail: "recaptime.madebythepins@gmail.com"
+  commitAuthorEmail: "service-accounts+github@recaptime.tk"
 
 # Other stuff
 skipDescriptionUpdate: false
