@@ -33,13 +33,13 @@ user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/sta
 
 # Workflow schedules
 workflowSchedule:
-  graphs: "0 */3 * * *"
-  responseTime: "*/30 * * * *"
-  staticSite: "0 */1 * * *"
+  graphs: "0 */2 * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/30 * * * *"
   summary: "0 */1 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "*/20 * * * *"
-  uptime: "*/20 * * * *"
+  updates: "*/30 * * * *"
+  uptime: "*/15 * * * *"
 
 # git config
 commitMessages:
