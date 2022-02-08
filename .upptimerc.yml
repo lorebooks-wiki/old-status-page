@@ -8,7 +8,7 @@ repo: status-page
 
 # Site Inventory
 sites:
-  - name: Homepage
+  - name: Community Lores Homepage
     url: https://community-lores.gq
   #- name: Glossary
   #  url: https://glossary.communtiy-lores.gq
@@ -33,7 +33,6 @@ user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/sta
 
 # Workflow schedules
 workflowSchedule:
-  graphs: "0 */2 * * *"
   responseTime: "*/10 * * * *"
   staticSite: "*/30 * * * *"
   summary: "0 */1 * * *"
