@@ -4,17 +4,19 @@
     "url": "https://community-lores.gq",
     "icon": "https://favicons.githubusercontent.com/community-lores.gq",
     "slug": "community-lores-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 693,
-    "timeDay": 463,
+    "timeDay": 477,
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   }
 ]
