@@ -6,15 +6,15 @@
     "slug": "community-lores-homepage",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.56%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
-    "time": 714,
-    "timeDay": 761,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 714,
+    "time": 708,
+    "timeDay": 744,
+    "timeWeek": 708,
+    "timeMonth": 708,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2022-02-10": 6
     }
