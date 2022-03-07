@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/community-lores.gq",
     "slug": "community-lores-homepage",
     "status": "down",
-    "uptime": "98.18%",
-    "uptimeDay": "50.13%",
-    "uptimeWeek": "92.88%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "98.18%",
+    "uptime": "98.04%",
+    "uptimeDay": "46.18%",
+    "uptimeWeek": "92.31%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
     "time": 451,
-    "timeDay": 764,
-    "timeWeek": 432,
+    "timeDay": 792,
+    "timeWeek": 433,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-03-07": 718,
+      "2022-03-07": 775,
       "2022-02-10": 6
     }
   }
