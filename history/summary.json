@@ -11,7 +11,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "98.39%",
     "time": 506,
-    "timeDay": 630,
+    "timeDay": 639,
     "timeWeek": 650,
     "timeMonth": 731,
     "timeYear": 506,
@@ -28,5 +28,23 @@
       "2022-03-07": 938,
       "2022-02-10": 6
     }
+  },
+  {
+    "name": "Recap Time Squad Wiki",
+    "url": "https://wiki.recaptime.eu.org",
+    "icon": "https://favicons.githubusercontent.com/wiki.recaptime.eu.org",
+    "slug": "recap-time-squad-wiki",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1704,
+    "timeDay": 1704,
+    "timeWeek": 1704,
+    "timeMonth": 1704,
+    "timeYear": 1704,
+    "dailyMinutesDown": {}
   }
 ]
