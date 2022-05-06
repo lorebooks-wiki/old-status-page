@@ -10,6 +10,10 @@ repo: status-page
 sites:
   - name: Community Lores Homepage
     url: https://community-lores.gq
+  - name: Recap Time Squad Wiki
+    url: https://wiki.recaptime.eu.org
+    headers:
+      - "User-Agent: RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)" 
   #- name: Glossary
   #  url: https://glossary.communtiy-lores.gq
 
@@ -29,11 +33,11 @@ status-website:
       href: https://gitlab.com/$OWNER
 
 # Identification purposes on API
-user-agent: "RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)"
+user-agent: "RecapTimeBot/0.2.2022 (repo: https://github.com/Community-Lores/status-page; integration: upptime)"
 
 # Workflow schedules
 workflowSchedule:
-  responseTime: "*/10 * * * *"
+  responseTime: "*/15 * * * *"
   staticSite: "*/30 * * * *"
   summary: "0 */1 * * *"
   updateTemplate: "0 0 * * *"
