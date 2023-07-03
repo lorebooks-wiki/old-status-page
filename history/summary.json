@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.46%",
     "time": 712,
-    "timeDay": 487,
-    "timeWeek": 634,
-    "timeMonth": 938,
+    "timeDay": 435,
+    "timeWeek": 600,
+    "timeMonth": 935,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2023-06-09": 1,
@@ -60,8 +60,7 @@
       "2022-08-16": 1,
       "2022-07-19": 51,
       "2022-07-14": 2,
-      "2022-07-13": 12,
-      "2022-07-03": 11
+      "2022-07-13": 12
     }
   },
   {
@@ -70,15 +69,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.recaptime.eu.org.ico",
     "slug": "recap-time-squad-wiki",
     "status": "up",
-    "uptime": "90.16%",
+    "uptime": "90.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.81%",
     "time": 990,
-    "timeDay": 874,
-    "timeWeek": 848,
-    "timeMonth": 879,
+    "timeDay": 849,
+    "timeWeek": 844,
+    "timeMonth": 878,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2023-04-20": 23,
