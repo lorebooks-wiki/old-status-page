@@ -1,7 +1,7 @@
 url: https://wiki.recaptime.eu.org
-status: up
-code: 200
-responseTime: 1497
-lastUpdated: 2023-07-06T13:13:48.604Z
+status: down
+code: 429
+responseTime: 401
+lastUpdated: 2023-07-06T13:15:31.892Z
 startTime: Fri May 06 2022 10:55:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
