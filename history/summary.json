@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/community-lores.gq.ico",
     "slug": "community-lores-homepage",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.46%",
     "time": 707,
-    "timeDay": 447,
-    "timeWeek": 492,
-    "timeMonth": 784,
+    "timeDay": 450,
+    "timeWeek": 482,
+    "timeMonth": 768,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2023-06-09": 1,
@@ -58,8 +58,7 @@
       "2022-08-20": 19,
       "2022-08-19": 1,
       "2022-08-16": 1,
-      "2022-07-19": 51,
-      "2022-07-14": 2
+      "2022-07-19": 51
     }
   },
   {
@@ -68,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.recaptime.eu.org.ico",
     "slug": "recap-time-squad-wiki",
     "status": "up",
-    "uptime": "90.24%",
+    "uptime": "90.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.31%",
+    "uptimeWeek": "95.32%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "90.61%",
     "time": 986,
-    "timeDay": 775,
-    "timeWeek": 795,
-    "timeMonth": 849,
+    "timeDay": 763,
+    "timeWeek": 812,
+    "timeMonth": 848,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2023-07-07": 582,
@@ -135,8 +134,7 @@
       "2022-08-06": 11,
       "2022-08-04": 2,
       "2022-08-03": 1,
-      "2022-07-29": 40,
-      "2022-07-14": 55
+      "2022-07-29": 40
     }
   }
 ]
