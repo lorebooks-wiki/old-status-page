@@ -3,15 +3,15 @@
 # please contact @ajhalili2006 for assistance
 
 # Repository stuff, currently only supports GitHub.
-owner: Community-Lores
+owner: lorebooks-wiki
 repo: status-page
 
 # Site Inventory
 sites:
   - name: Community Lores Homepage
-    url: https://community-lores.gq
+    url: https://lorebooks.eu.org
   - name: Recap Time Squad Wiki
-    url: https://wiki.recaptime.eu.org
+    url: https://squad.lorebooks.eu.org
     headers:
       - "User-Agent: RecapTimeBot/0.1.2021 (repo: https://github.com/Community-Lores/status-page; integration: upptime)" 
   #- name: Glossary
