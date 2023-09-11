@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lorebooks.eu.org.ico",
     "slug": "community-lores-homepage",
     "status": "up",
-    "uptime": "95.63%",
+    "uptime": "95.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.03%",
-    "time": 613,
-    "timeDay": 244,
-    "timeWeek": 316,
-    "timeMonth": 331,
-    "timeYear": 613,
+    "uptimeYear": "96.29%",
+    "time": 612,
+    "timeDay": 256,
+    "timeWeek": 306,
+    "timeMonth": 329,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2023-07-25": 4,
       "2023-07-24": 1,
@@ -43,8 +43,7 @@
       "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
-      "2022-09-12": 1440,
-      "2022-09-11": 1440
+      "2022-09-12": 1440
     }
   },
   {
@@ -53,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.lorebooks.eu.org.ico",
     "slug": "recap-time-squad-wiki",
     "status": "up",
-    "uptime": "91.41%",
+    "uptime": "91.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.77%",
-    "time": 876,
-    "timeDay": 265,
-    "timeWeek": 319,
-    "timeMonth": 356,
-    "timeYear": 871,
+    "time": 873,
+    "timeDay": 229,
+    "timeWeek": 302,
+    "timeMonth": 352,
+    "timeYear": 867,
     "dailyMinutesDown": {
       "2023-07-25": 4,
       "2023-07-24": 1,
@@ -112,8 +111,7 @@
       "2022-10-22": 2,
       "2022-10-03": 24,
       "2022-09-26": 72,
-      "2022-09-20": 11,
-      "2022-09-11": 43
+      "2022-09-20": 11
     }
   }
 ]
