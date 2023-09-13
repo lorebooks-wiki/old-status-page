@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lorebooks.eu.org.ico",
     "slug": "community-lores-homepage",
     "status": "up",
-    "uptime": "95.65%",
+    "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.81%",
-    "time": 609,
-    "timeDay": 356,
-    "timeWeek": 305,
-    "timeMonth": 328,
+    "uptimeYear": "96.84%",
+    "time": 610,
+    "timeDay": 459,
+    "timeWeek": 319,
+    "timeMonth": 331,
     "timeYear": 609,
     "dailyMinutesDown": {
       "2023-07-25": 4,
@@ -41,8 +41,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -57,8 +56,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "90.78%",
     "time": 867,
-    "timeDay": 290,
-    "timeWeek": 279,
+    "timeDay": 312,
+    "timeWeek": 281,
     "timeMonth": 349,
     "timeYear": 856,
     "dailyMinutesDown": {
