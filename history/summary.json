@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/lorebooks.eu.org.ico",
     "slug": "community-lores-homepage",
     "status": "up",
-    "uptime": "96.09%",
+    "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 535,
-    "timeDay": 318,
-    "timeWeek": 284,
+    "timeDay": 325,
+    "timeWeek": 288,
     "timeMonth": 305,
     "timeYear": 535,
     "dailyMinutesDown": {
@@ -37,16 +37,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.lorebooks.eu.org.ico",
     "slug": "recap-time-squad-wiki",
     "status": "up",
-    "uptime": "92.45%",
+    "uptime": "92.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.07%",
+    "uptimeYear": "91.21%",
     "time": 730,
-    "timeDay": 342,
+    "timeDay": 347,
     "timeWeek": 322,
-    "timeMonth": 317,
-    "timeYear": 714,
+    "timeMonth": 316,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2023-09-12": 32,
       "2023-07-25": 4,
@@ -88,8 +88,7 @@
       "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
-      "2022-11-19": 1440,
-      "2022-11-18": 1440
+      "2022-11-19": 1440
     }
   }
 ]
