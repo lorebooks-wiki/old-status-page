@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 527,
-    "timeDay": 308,
-    "timeWeek": 284,
+    "timeDay": 271,
+    "timeWeek": 281,
     "timeMonth": 294,
     "timeYear": 527,
     "dailyMinutesDown": {
@@ -37,16 +37,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.lorebooks.eu.org.ico",
     "slug": "recap-time-squad-wiki",
     "status": "up",
-    "uptime": "92.61%",
+    "uptime": "92.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.36%",
-    "time": 682,
-    "timeDay": 300,
-    "timeWeek": 299,
-    "timeMonth": 307,
-    "timeYear": 678,
+    "uptimeYear": "94.49%",
+    "time": 681,
+    "timeDay": 293,
+    "timeWeek": 298,
+    "timeMonth": 306,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2023-09-12": 32,
       "2023-07-25": 4,
@@ -76,8 +76,7 @@
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
-      "2022-12-01": 1440,
-      "2022-11-30": 1440
+      "2022-12-01": 1440
     }
   }
 ]
