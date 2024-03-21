@@ -10,10 +10,10 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.79%",
-    "time": 419,
-    "timeDay": 360,
-    "timeWeek": 324,
-    "timeMonth": 299,
+    "time": 418,
+    "timeDay": 413,
+    "timeWeek": 344,
+    "timeMonth": 303,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2024-03-16": 41,
@@ -22,8 +22,7 @@
       "2023-07-24": 1,
       "2023-06-09": 1,
       "2023-05-31": 12,
-      "2023-03-23": 713,
-      "2023-03-22": 300
+      "2023-03-23": 713
     }
   },
   {
@@ -32,16 +31,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/squad.lorebooks.eu.org.ico",
     "slug": "recap-time-squad-wiki",
     "status": "up",
-    "uptime": "86.48%",
+    "uptime": "86.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "90.83%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "86.04%",
-    "time": 491,
-    "timeDay": 306,
-    "timeWeek": 426,
+    "time": 489,
+    "timeDay": 289,
+    "timeWeek": 394,
     "timeMonth": 346,
-    "timeYear": 488,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2024-03-16": 52,
       "2024-02-22": 1153,
